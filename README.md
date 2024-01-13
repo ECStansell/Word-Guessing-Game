@@ -1,7 +1,7 @@
 # Word-Guessing-Game
 School project to create a word guessing game.
 
-Project Prompt:
+Project Prompt: \n
 General Requirements
 Remember to comment your code - include your name, date, class, and assignment title.
 Provide comments throughout your program to document your code process to document each function and provide structure for your code process. 
