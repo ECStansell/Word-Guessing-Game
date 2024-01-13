@@ -1,6 +1,8 @@
 # Word-Guessing-Game
 School project to create a word guessing game.
 
+Word Guessing game must be run with the provided wordlist.
+
 Project Prompt:
 General Requirements
 Remember to comment your code - include your name, date, class, and assignment title.
